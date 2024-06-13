@@ -1,0 +1,1 @@
+Olá esse projeto é focado em testar todas as funcionalidades do Git
